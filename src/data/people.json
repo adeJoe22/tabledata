@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "1",
+    "name": "John Brady",
+    "email": "johnbrady@plus1.com",
+    "company": "PLUS1",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "2",
+    "name": "Sean Douglas",
+    "email": "seandouglas@corez.com",
+    "company": "COREZ",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "3",
+    "name": "Shola Taylor",
+    "email": "staylor@revolve.com",
+    "company": "REVOLVE",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "4",
+    "name": "Brian Stanbury",
+    "email": "brianstanbury@walmart.com",
+    "company": "WALMART",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "5",
+    "name": "Folley Ross",
+    "email": "folleyross@techno.com",
+    "company": "TECHNO",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "6",
+    "name": "Rick Moore",
+    "email": "rickmoore@murdor.com",
+    "company": "MURDOR",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "7",
+    "name": "Ingrid Adedayo",
+    "email": "ingridadedayo@rolex.com",
+    "company": "ROLEX",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "8",
+    "name": "Paul Taiwo",
+    "email": "paultaiwo@leoplast.com",
+    "company": "LEOPLAST",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "9",
+    "name": "John Shirem",
+    "email": "johnshirem@harrisonhouse.com",
+    "company": "HARRISON HOUSE",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  },
+  {
+    "_id": "10",
+    "name": "Turner Laila",
+    "email": "turnerlaila@lexus.com",
+    "company": "LEXUS",
+    "phone": "+234 903 4456 782",
+    "address": "234 Banana Republic, Lagos Island"
+  }
+]
